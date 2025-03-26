@@ -5,8 +5,10 @@ Ogni esperimento è sicuro, educativo e pensato per essere realizzato a casa o a
 
 ## 🔍 Esperimenti disponibili
 
-- [La Chimica dei Colori](chimica-dei-colori.md)
-## 🔍 Esperimenti disponibili
 
 - [La Chimica dei Colori](chimica-dei-colori.md)
 - [Gonfiare un Palloncino con la Scienza](gonfia-palloncino.md)
+
+
+
+
