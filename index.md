@@ -8,7 +8,7 @@ Ogni esperimento è sicuro, educativo e pensato per essere realizzato a casa o a
 
 - [La Chimica dei Colori](chimica-dei-colori.md)
 - [Gonfiare un Palloncino con la Scienza](gonfia-palloncino.md)
-
+- [Vulcano da Cucina – Eruzione Chimica](vulcano-da-cucina.md)
 
 
 
